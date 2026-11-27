@@ -1,6 +1,6 @@
 # Polyfork: free low-poly 3D models
 
-**3,639 free low-poly 3D models and 38 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
+**3,645 free low-poly 3D models and 38 themed kits** for three.js, games and the web. GLB or ES module, no account, no key.
 
 [Browse on polyfork.dev](https://polyfork.dev/assets) · [Kits](#kits) · [By type](#browse-by-type) · [catalog.json](catalog.json)
 
@@ -71,7 +71,7 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><a href="kits/chile-fiestas-patrias-87e847.md"><img src="covers/chile-fiestas-patrias-87e847.jpg" alt="Chile: Fiestas Patrias low-poly 3D kit"><br><strong>Chile: Fiestas Patrias</strong></a><br><sub>63 parts</sub></td>
-<td align="center" valign="top" width="33%"><a href="kits/christmas-village-fbc27a.md"><img src="covers/christmas-village-fbc27a.jpg" alt="Christmas Village low-poly 3D kit"><br><strong>Christmas Village</strong></a><br><sub>60 parts</sub></td>
+<td align="center" valign="top" width="33%"><a href="kits/christmas-village-fbc27a.md"><img src="covers/christmas-village-fbc27a.jpg" alt="Christmas Village low-poly 3D kit"><br><strong>Christmas Village</strong></a><br><sub>61 parts</sub></td>
 <td align="center" valign="top" width="33%"><a href="kits/chrome-arcology-transit-kit-87a0e1.md"><img src="covers/chrome-arcology-transit-kit-87a0e1.jpg" alt="Chrome Arcology Transit kit low-poly 3D kit"><br><strong>Chrome Arcology Transit kit</strong></a><br><sub>61 parts</sub></td>
 </tr>
 <tr>
@@ -132,14 +132,14 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 
 ### In production
 
-- [Airport](kits/airport-43b137.md), 100 parts so far
+- [Airport](kits/airport-43b137.md), 101 parts so far
 - [Dungeon & Crypt](kits/dungeon-crypt-c27d93.md), 67 parts so far
 - [Easter Island (Rapa Nui)](kits/easter-island-rapa-nui-368e86.md), 59 parts so far
 - [Hotel Casino kit](kits/casino-3dd029.md), 122 parts so far
 - [Industrial Freight Yard](kits/warehouse-and-logistics-activity-f7e79d.md), 23 parts so far
 - [Insect World kit](kits/insect-world-e44b9f.md), 58 parts so far
 - [Medieval Japan](kits/medieval-japan-cb01ad.md), 60 parts so far
-- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 45 parts so far
+- [Mediterranean Island Village](kits/mediterranean-island-village-4ac936.md), 48 parts so far
 - [Myths of Olympus](kits/myths-of-olympus-d03622.md), 29 parts so far
 - [Open Plan](kits/open-plan-b2ebd3.md), 63 parts so far
 - [Prehistoric Valley](kits/prehistoric-valley-8638dc.md), 59 parts so far
@@ -154,10 +154,10 @@ Every kit is a themed set of parts on one palette and one scale, so everything y
 | Type | Models |
 |---|--:|
 | [Characters](models/characters.md) | 208 |
-| [Animals](models/animals.md) | 296 |
-| [Buildings](models/buildings.md) | 496 |
+| [Animals](models/animals.md) | 297 |
+| [Buildings](models/buildings.md) | 499 |
 | [Vehicles](models/vehicles.md) | 232 |
-| [Props](models/props.md) | 2,249 |
+| [Props](models/props.md) | 2,251 |
 | [Terrain](models/terrain.md) | 22 |
 | [Attachments](models/attachments.md) | 48 |
 | [Nano](models/nano.md) | 86 |

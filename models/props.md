@@ -1,6 +1,6 @@
 # Props
 
-2,249 free low-poly models. [All types](../README.md#browse-by-type)
+2,251 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -24,7 +24,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Agility Bag Set](https://polyfork.dev/asset/agility-bag-set-e25fcd) | [Stadium](../kits/stadium-5db167.md) | 960 | [GLB](https://polyfork.dev/cdn/agility-bag-set-e25fcd.glb) · [module](https://polyfork.dev/cdn/agility-bag-set-e25fcd.mjs) |
 | [Agility Ladder](https://polyfork.dev/asset/agility-ladder-2a8267) | [Stadium](../kits/stadium-5db167.md) | 614 | [GLB](https://polyfork.dev/cdn/agility-ladder-2a8267.glb) · [module](https://polyfork.dev/cdn/agility-ladder-2a8267.mjs) |
 | [Air and Water Post](https://polyfork.dev/asset/air-and-water-post-44487a) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 928 | [GLB](https://polyfork.dev/cdn/air-and-water-post-44487a.glb) · [module](https://polyfork.dev/cdn/air-and-water-post-44487a.mjs) |
-| [Air Traffic Radar Mast](https://polyfork.dev/asset/air-traffic-radar-mast-3e5642) | [Airport](../kits/airport-43b137.md) | 807 | [GLB](https://polyfork.dev/cdn/air-traffic-radar-mast-3e5642.glb) · [module](https://polyfork.dev/cdn/air-traffic-radar-mast-3e5642.mjs) |
+| [Air Traffic Radar Mast](https://polyfork.dev/asset/air-traffic-radar-mast-3e5642) | [Airport](../kits/airport-43b137.md) | 632 | [GLB](https://polyfork.dev/cdn/air-traffic-radar-mast-3e5642.glb) · [module](https://polyfork.dev/cdn/air-traffic-radar-mast-3e5642.mjs) |
 | [Air-Con Unit](https://polyfork.dev/asset/air-con-unit-9fadc2) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 480 | [GLB](https://polyfork.dev/cdn/air-con-unit-9fadc2.glb) · [module](https://polyfork.dev/cdn/air-con-unit-9fadc2.mjs) |
 | [Airside Service Road Tile](https://polyfork.dev/asset/airside-service-road-tile-f644dd) | [Airport](../kits/airport-43b137.md) | 526 | [GLB](https://polyfork.dev/cdn/airside-service-road-tile-f644dd.glb) · [module](https://polyfork.dev/cdn/airside-service-road-tile-f644dd.mjs) |
 | [Akja Rescue Sledge](https://polyfork.dev/asset/akja-rescue-sledge-a3727f) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 854 | [GLB](https://polyfork.dev/cdn/akja-rescue-sledge-a3727f.glb) · [module](https://polyfork.dev/cdn/akja-rescue-sledge-a3727f.mjs) |

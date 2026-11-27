@@ -1,11 +1,12 @@
 # Props
 
-2,249 free low-poly models. [All types](../README.md#browse-by-type)
+2,251 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Tournament Poker Table](https://polyfork.dev/asset/tournament-poker-table-a75b66) | [Hotel Casino kit](../kits/casino-3dd029.md) | 796 | [GLB](https://polyfork.dev/cdn/tournament-poker-table-a75b66.glb) · [module](https://polyfork.dev/cdn/tournament-poker-table-a75b66.mjs) |
 | [Towed Air Compressor](https://polyfork.dev/asset/towed-air-compressor-11f9ea) | [Construction Site](../kits/construction-site-9e40b0.md) | 1,371 | [GLB](https://polyfork.dev/cdn/towed-air-compressor-11f9ea.glb) · [module](https://polyfork.dev/cdn/towed-air-compressor-11f9ea.mjs) |
 | [Towel Rail](https://polyfork.dev/asset/towel-rail-81254f) | [Open Plan](../kits/open-plan-b2ebd3.md) | 452 | [GLB](https://polyfork.dev/cdn/towel-rail-81254f.glb) · [module](https://polyfork.dev/cdn/towel-rail-81254f.mjs) |
 | [Tower Shield](https://polyfork.dev/asset/tower-shield-09ff7d) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 686 | [GLB](https://polyfork.dev/cdn/tower-shield-09ff7d.glb) · [module](https://polyfork.dev/cdn/tower-shield-09ff7d.mjs) |
@@ -45,6 +46,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) [4](props-4.md) **5**
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-8c0513) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 524 | [GLB](https://polyfork.dev/cdn/tree-stump-8c0513.glb) · [module](https://polyfork.dev/cdn/tree-stump-8c0513.mjs) |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-ec3f48) | [Nature & Forest Kit](../kits/nature-forest-kit-f29d6a.md) | 505 | [GLB](https://polyfork.dev/cdn/tree-stump-ec3f48.glb) · [module](https://polyfork.dev/cdn/tree-stump-ec3f48.mjs) |
 | [Trench Plate](https://polyfork.dev/asset/trench-plate-30c3a3) | [Construction Site](../kits/construction-site-9e40b0.md) | 476 | [GLB](https://polyfork.dev/cdn/trench-plate-30c3a3.glb) · [module](https://polyfork.dev/cdn/trench-plate-30c3a3.mjs) |
+| [Tri-Axle Double Decker Bus](https://polyfork.dev/asset/tri-axle-double-decker-f295b5) |  | 2,864 | [GLB](https://polyfork.dev/cdn/tri-axle-double-decker-f295b5.glb) · [module](https://polyfork.dev/cdn/tri-axle-double-decker-f295b5.mjs) |
 | [Triangle](https://polyfork.dev/asset/triangle-58e13c) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 440 | [GLB](https://polyfork.dev/cdn/triangle-58e13c.glb) · [module](https://polyfork.dev/cdn/triangle-58e13c.mjs) |
 | [Trimmed Foundation Shrub](https://polyfork.dev/asset/trimmed-foundation-shrub-616ce0) | [Neighborhood Pathways kit](../kits/neighborhood-pathways-kit-a992cf.md) | 518 | [GLB](https://polyfork.dev/cdn/trimmed-foundation-shrub-616ce0.glb) · [module](https://polyfork.dev/cdn/trimmed-foundation-shrub-616ce0.mjs) |
 | [Tripod Machine Gun](https://polyfork.dev/asset/tripod-machine-gun-80f906) |  | 558 | [GLB](https://polyfork.dev/cdn/tripod-machine-gun-80f906.glb) · [module](https://polyfork.dev/cdn/tripod-machine-gun-80f906.mjs) |

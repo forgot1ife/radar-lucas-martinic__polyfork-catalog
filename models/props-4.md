@@ -1,11 +1,12 @@
 # Props
 
-2,249 free low-poly models. [All types](../README.md#browse-by-type)
+2,251 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Reed Fire Torch](https://polyfork.dev/asset/reed-fire-torch-f7453e) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 844 | [GLB](https://polyfork.dev/cdn/reed-fire-torch-f7453e.glb) · [module](https://polyfork.dev/cdn/reed-fire-torch-f7453e.mjs) |
 | [Reef Controller Unit](https://polyfork.dev/asset/reef-controller-unit-b98ce9) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 576 | [GLB](https://polyfork.dev/cdn/reef-controller-unit-b98ce9.glb) · [module](https://polyfork.dev/cdn/reef-controller-unit-b98ce9.mjs) |
 | [Reef Rock Pavement Tile](https://polyfork.dev/asset/reef-rock-pavement-tile-879f47) | [Coral Reef](../kits/coral-reef-a7128a.md) | 520 | [GLB](https://polyfork.dev/cdn/reef-rock-pavement-tile-879f47.glb) · [module](https://polyfork.dev/cdn/reef-rock-pavement-tile-879f47.mjs) |
 | [Reef Rubble Terrain Blob](https://polyfork.dev/asset/reef-rubble-terrain-blob-df5888) | [Coral Reef](../kits/coral-reef-a7128a.md) | 672 | [GLB](https://polyfork.dev/cdn/reef-rubble-terrain-blob-df5888.glb) · [module](https://polyfork.dev/cdn/reef-rubble-terrain-blob-df5888.mjs) |
@@ -475,7 +476,7 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Tilting solar tracker](https://polyfork.dev/asset/tilting-solar-tracker-48051b) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 765 | [GLB](https://polyfork.dev/cdn/tilting-solar-tracker-48051b.glb) · [module](https://polyfork.dev/cdn/tilting-solar-tracker-48051b.mjs) |
 | [Timber Crate](https://polyfork.dev/asset/timber-crate-ba0739) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 588 | [GLB](https://polyfork.dev/cdn/timber-crate-ba0739.glb) · [module](https://polyfork.dev/cdn/timber-crate-ba0739.mjs) |
 | [Timber Deck Tile](https://polyfork.dev/asset/timber-deck-tile-39324d) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 102 | [GLB](https://polyfork.dev/cdn/timber-deck-tile-39324d.glb) · [module](https://polyfork.dev/cdn/timber-deck-tile-39324d.mjs) |
-| [Timber EUR Pallet](https://polyfork.dev/asset/timber-eur-pallet-a1f655) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 720 | [GLB](https://polyfork.dev/cdn/timber-eur-pallet-a1f655.glb) · [module](https://polyfork.dev/cdn/timber-eur-pallet-a1f655.mjs) |
+| [Timber EUR Pallet](https://polyfork.dev/asset/timber-eur-pallet-a1f655) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 816 | [GLB](https://polyfork.dev/cdn/timber-eur-pallet-a1f655.glb) · [module](https://polyfork.dev/cdn/timber-eur-pallet-a1f655.mjs) |
 | [Timber Halt Platform](https://polyfork.dev/asset/timber-halt-platform-042fd8) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 776 | [GLB](https://polyfork.dev/cdn/timber-halt-platform-042fd8.glb) · [module](https://polyfork.dev/cdn/timber-halt-platform-042fd8.mjs) |
 | [Timber Shaft Frame](https://polyfork.dev/asset/timber-shaft-frame-87f96b) | [Loot & Lode kit](../kits/loot-lode-kit-63191e.md) | 560 | [GLB](https://polyfork.dev/cdn/timber-shaft-frame-87f96b.glb) · [module](https://polyfork.dev/cdn/timber-shaft-frame-87f96b.mjs) |
 | [Timber Ski Rack](https://polyfork.dev/asset/timber-ski-rack-8239d1) | [Alpine and Snow](../kits/alpine-and-snow-092f66.md) | 704 | [GLB](https://polyfork.dev/cdn/timber-ski-rack-8239d1.glb) · [module](https://polyfork.dev/cdn/timber-ski-rack-8239d1.mjs) |
@@ -505,5 +506,4 @@ Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)
 | [Torture Rack](https://polyfork.dev/asset/torture-rack-b3f09c) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 700 | [GLB](https://polyfork.dev/cdn/torture-rack-b3f09c.glb) · [module](https://polyfork.dev/cdn/torture-rack-b3f09c.mjs) |
 | [Totora Reed Bed](https://polyfork.dev/asset/totora-reed-bed-36d78f) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 917 | [GLB](https://polyfork.dev/cdn/totora-reed-bed-36d78f.glb) · [module](https://polyfork.dev/cdn/totora-reed-bed-36d78f.mjs) |
 | [Touchline Stretcher](https://polyfork.dev/asset/touchline-stretcher-f08e97) | [Stadium](../kits/stadium-5db167.md) | 646 | [GLB](https://polyfork.dev/cdn/touchline-stretcher-f08e97.glb) · [module](https://polyfork.dev/cdn/touchline-stretcher-f08e97.mjs) |
-| [Tournament Poker Table](https://polyfork.dev/asset/tournament-poker-table-a75b66) | [Hotel Casino kit](../kits/casino-3dd029.md) | 796 | [GLB](https://polyfork.dev/cdn/tournament-poker-table-a75b66.glb) · [module](https://polyfork.dev/cdn/tournament-poker-table-a75b66.mjs) |
 Page [1](props.md) [2](props-2.md) [3](props-3.md) **4** [5](props-5.md)

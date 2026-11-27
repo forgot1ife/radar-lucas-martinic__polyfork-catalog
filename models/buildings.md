@@ -1,6 +1,6 @@
 # Buildings
 
-496 free low-poly models. [All types](../README.md#browse-by-type)
+499 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -202,6 +202,7 @@
 | [Hall Stage Deck](https://polyfork.dev/asset/hall-stage-deck-1f5a11) |  | 322 | [GLB](https://polyfork.dev/cdn/hall-stage-deck-1f5a11.glb) · [module](https://polyfork.dev/cdn/hall-stage-deck-1f5a11.mjs) |
 | [Harbour Jetty Run](https://polyfork.dev/asset/harbour-jetty-run-bc1c7c) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,772 | [GLB](https://polyfork.dev/cdn/harbour-jetty-run-bc1c7c.glb) · [module](https://polyfork.dev/cdn/harbour-jetty-run-bc1c7c.mjs) |
 | [Harbour Master's Hut](https://polyfork.dev/asset/harbour-master-s-hut-226f34) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,468 | [GLB](https://polyfork.dev/cdn/harbour-master-s-hut-226f34.glb) · [module](https://polyfork.dev/cdn/harbour-master-s-hut-226f34.mjs) |
+| [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 1,036 | [GLB](https://polyfork.dev/cdn/harbour-quay-edge-run-95df75.glb) · [module](https://polyfork.dev/cdn/harbour-quay-edge-run-95df75.mjs) |
 | [Harbour Ticket Office Kiosk](https://polyfork.dev/asset/harbour-ticket-office-kiosk-2825f8) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 2,122 | [GLB](https://polyfork.dev/cdn/harbour-ticket-office-kiosk-2825f8.glb) · [module](https://polyfork.dev/cdn/harbour-ticket-office-kiosk-2825f8.mjs) |
 | [Hare Moa Chicken House](https://polyfork.dev/asset/hare-moa-chicken-house-fb5ed7) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,323 | [GLB](https://polyfork.dev/cdn/hare-moa-chicken-house-fb5ed7.glb) · [module](https://polyfork.dev/cdn/hare-moa-chicken-house-fb5ed7.mjs) |
 | [Hare Paenga Boat House](https://polyfork.dev/asset/hare-paenga-boat-house-8cd4c9) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 1,713 | [GLB](https://polyfork.dev/cdn/hare-paenga-boat-house-8cd4c9.glb) · [module](https://polyfork.dev/cdn/hare-paenga-boat-house-8cd4c9.mjs) |
@@ -361,6 +362,7 @@
 | [Rock Armour Revetment](https://polyfork.dev/asset/rock-armour-revetment-aea1ca) | [Coast and Boardwalk](../kits/coast-and-boardwalk-d883fd.md) | 1,931 | [GLB](https://polyfork.dev/cdn/rock-armour-revetment-aea1ca.glb) · [module](https://polyfork.dev/cdn/rock-armour-revetment-aea1ca.mjs) |
 | [Rolled plate silo](https://polyfork.dev/asset/rolled-plate-silo-42304a) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 1,479 | [GLB](https://polyfork.dev/cdn/rolled-plate-silo-42304a.glb) · [module](https://polyfork.dev/cdn/rolled-plate-silo-42304a.mjs) |
 | [Rooftop Helipad Deck](https://polyfork.dev/asset/rooftop-helipad-deck-24e53c) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 2,226 | [GLB](https://polyfork.dev/cdn/rooftop-helipad-deck-24e53c.glb) · [module](https://polyfork.dev/cdn/rooftop-helipad-deck-24e53c.mjs) |
+| [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | [Mediterranean Island Village](../kits/mediterranean-island-village-4ac936.md) | 1,214 | [GLB](https://polyfork.dev/cdn/rooftop-terrace-parapet-run-0f173f.glb) · [module](https://polyfork.dev/cdn/rooftop-terrace-parapet-run-0f173f.mjs) |
 | [Rope Bridge Span](https://polyfork.dev/asset/rope-bridge-span-159f8c) | [Dungeon & Crypt](../kits/dungeon-crypt-c27d93.md) | 1,540 | [GLB](https://polyfork.dev/cdn/rope-bridge-span-159f8c.glb) · [module](https://polyfork.dev/cdn/rope-bridge-span-159f8c.mjs) |
 | [Round Tholos](https://polyfork.dev/asset/round-tholos-c5c20e) | [Myths of Olympus](../kits/myths-of-olympus-d03622.md) | 3,374 | [GLB](https://polyfork.dev/cdn/round-tholos-c5c20e.glb) · [module](https://polyfork.dev/cdn/round-tholos-c5c20e.mjs) |
 | [Rover Garage](https://polyfork.dev/asset/rover-garage-273fb1) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 614 | [GLB](https://polyfork.dev/cdn/rover-garage-273fb1.glb) · [module](https://polyfork.dev/cdn/rover-garage-273fb1.mjs) |
@@ -439,6 +441,7 @@
 | [Temple Bell Tower](https://polyfork.dev/asset/temple-bell-tower-745387) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,782 | [GLB](https://polyfork.dev/cdn/temple-bell-tower-745387.glb) · [module](https://polyfork.dev/cdn/temple-bell-tower-745387.mjs) |
 | [Tenshu Keep](https://polyfork.dev/asset/tenshu-keep-2ff636) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 2,890 | [GLB](https://polyfork.dev/cdn/tenshu-keep-2ff636.glb) · [module](https://polyfork.dev/cdn/tenshu-keep-2ff636.mjs) |
 | [Terminal Facade Module](https://polyfork.dev/asset/terminal-facade-module-5574b6) | [Airport](../kits/airport-43b137.md) | 500 | [GLB](https://polyfork.dev/cdn/terminal-facade-module-5574b6.glb) · [module](https://polyfork.dev/cdn/terminal-facade-module-5574b6.mjs) |
+| [Terminal Retail Unit](https://polyfork.dev/asset/terminal-retail-unit-8c20d6) | [Airport](../kits/airport-43b137.md) | 1,030 | [GLB](https://polyfork.dev/cdn/terminal-retail-unit-8c20d6.glb) · [module](https://polyfork.dev/cdn/terminal-retail-unit-8c20d6.mjs) |
 | [Terminal Structure Bay](https://polyfork.dev/asset/terminal-structure-bay-ea2467) | [Airport](../kits/airport-43b137.md) | 1,012 | [GLB](https://polyfork.dev/cdn/terminal-structure-bay-ea2467.glb) · [module](https://polyfork.dev/cdn/terminal-structure-bay-ea2467.mjs) |
 | [Terrace Step Run](https://polyfork.dev/asset/terrace-step-run-b631a9) | [Stadium](../kits/stadium-5db167.md) | 740 | [GLB](https://polyfork.dev/cdn/terrace-step-run-b631a9.glb) · [module](https://polyfork.dev/cdn/terrace-step-run-b631a9.mjs) |
 | [Terrace Stone Stair](https://polyfork.dev/asset/terrace-stone-stair-494ef8) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 1,550 | [GLB](https://polyfork.dev/cdn/terrace-stone-stair-494ef8.glb) · [module](https://polyfork.dev/cdn/terrace-stone-stair-494ef8.mjs) |

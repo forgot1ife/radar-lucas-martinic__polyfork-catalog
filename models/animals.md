@@ -1,6 +1,6 @@
 # Animals
 
-296 free low-poly models. [All types](../README.md#browse-by-type)
+297 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -273,6 +273,7 @@
 | [Swamp child](https://polyfork.dev/asset/swamp-child-base) |  | 4,922 | [GLB](https://polyfork.dev/cdn/swamp-child-base.glb) · [module](https://polyfork.dev/cdn/swamp-child-base.mjs) |
 | [Tai chi elder](https://polyfork.dev/asset/tai-chi-elder-base) |  | 2,892 | [GLB](https://polyfork.dev/cdn/tai-chi-elder-base.glb) · [module](https://polyfork.dev/cdn/tai-chi-elder-base.mjs) |
 | [Tarantula](https://polyfork.dev/asset/tarantula-base) |  | 2,904 | [GLB](https://polyfork.dev/cdn/tarantula-base.glb) · [module](https://polyfork.dev/cdn/tarantula-base.mjs) |
+| [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) |  | 4,986 | [GLB](https://polyfork.dev/cdn/taverna-waiter-base.glb) · [module](https://polyfork.dev/cdn/taverna-waiter-base.mjs) |
 | [Teen audience member](https://polyfork.dev/asset/teen-audience-member-base) |  | 4,952 | [GLB](https://polyfork.dev/cdn/teen-audience-member-base.glb) · [module](https://polyfork.dev/cdn/teen-audience-member-base.mjs) |
 | [Tentacle-Faced Occultist](https://polyfork.dev/asset/sea-occultist-36c1b7) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,990 | [GLB](https://polyfork.dev/cdn/sea-occultist-36c1b7.glb) · [module](https://polyfork.dev/cdn/sea-occultist-36c1b7.mjs) |
 | [Thalor, the Mirror-Mad Scholar](https://polyfork.dev/asset/thalor-base) |  | 4,997 | [GLB](https://polyfork.dev/cdn/thalor-base.glb) · [module](https://polyfork.dev/cdn/thalor-base.mjs) |

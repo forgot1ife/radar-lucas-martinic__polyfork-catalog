@@ -1,6 +1,6 @@
 # Props
 
-2,249 free low-poly models. [All types](../README.md#browse-by-type)
+2,251 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -379,7 +379,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Hand Crossbow](https://polyfork.dev/asset/hand-crossbow-77a4c7) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 798 | [GLB](https://polyfork.dev/cdn/hand-crossbow-77a4c7.glb) · [module](https://polyfork.dev/cdn/hand-crossbow-77a4c7.mjs) |
 | [Hand Cursor](https://polyfork.dev/asset/hand-cursor-62192f) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 980 | [GLB](https://polyfork.dev/cdn/hand-cursor-62192f.glb) · [module](https://polyfork.dev/cdn/hand-cursor-62192f.mjs) |
 | [Hand Sanitiser Dispenser](https://polyfork.dev/asset/hand-sanitiser-dispenser-a48460) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 446 | [GLB](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.glb) · [module](https://polyfork.dev/cdn/hand-sanitiser-dispenser-a48460.mjs) |
-| [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 672 | [GLB](https://polyfork.dev/cdn/hand-stretch-film-roll-0e602d.glb) · [module](https://polyfork.dev/cdn/hand-stretch-film-roll-0e602d.mjs) |
+| [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 792 | [GLB](https://polyfork.dev/cdn/hand-stretch-film-roll-0e602d.glb) · [module](https://polyfork.dev/cdn/hand-stretch-film-roll-0e602d.mjs) |
 | [Hand Water Pump](https://polyfork.dev/asset/hand-water-pump-448037) | [Cozy Farm](../kits/cozy-farm-cc979f.md) | 626 | [GLB](https://polyfork.dev/cdn/hand-water-pump-448037.glb) · [module](https://polyfork.dev/cdn/hand-water-pump-448037.mjs) |
 | [Hand-Painted Arrow Sign](https://polyfork.dev/asset/hand-painted-arrow-sign-883df2) | [Halloween Night](../kits/halloween-night-46ade4.md) | 450 | [GLB](https://polyfork.dev/cdn/hand-painted-arrow-sign-883df2.glb) · [module](https://polyfork.dev/cdn/hand-painted-arrow-sign-883df2.mjs) |
 | [Hanging Aisle Sign](https://polyfork.dev/asset/hanging-aisle-sign-0b372d) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 698 | [GLB](https://polyfork.dev/cdn/hanging-aisle-sign-0b372d.glb) · [module](https://polyfork.dev/cdn/hanging-aisle-sign-0b372d.mjs) |
@@ -442,6 +442,7 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Ice Bucket](https://polyfork.dev/asset/ice-bucket-1dd869) | [Research Lab](../kits/research-lab-9b9b5d.md) | 652 | [GLB](https://polyfork.dev/cdn/ice-bucket-1dd869.glb) · [module](https://polyfork.dev/cdn/ice-bucket-1dd869.mjs) |
 | [Ice Chest](https://polyfork.dev/asset/ice-chest-83c9ed) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 788 | [GLB](https://polyfork.dev/cdn/ice-chest-83c9ed.glb) · [module](https://polyfork.dev/cdn/ice-chest-83c9ed.mjs) |
 | [Ice Chunk](https://polyfork.dev/asset/ice-chunk-b23ad7) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 253 | [GLB](https://polyfork.dev/cdn/ice-chunk-b23ad7.glb) · [module](https://polyfork.dev/cdn/ice-chunk-b23ad7.mjs) |
+| [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 620 | [GLB](https://polyfork.dev/cdn/ice-rink-tile-aceb6a.glb) · [module](https://polyfork.dev/cdn/ice-rink-tile-aceb6a.mjs) |
 | [Icicle Light Run](https://polyfork.dev/asset/icicle-light-run-70458b) | [Christmas Village](../kits/christmas-village-fbc27a.md) | 680 | [GLB](https://polyfork.dev/cdn/icicle-light-run-70458b.glb) · [module](https://polyfork.dev/cdn/icicle-light-run-70458b.mjs) |
 | [Illuminated Bollard](https://polyfork.dev/asset/illuminated-bollard-9af752) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 596 | [GLB](https://polyfork.dev/cdn/illuminated-bollard-9af752.glb) · [module](https://polyfork.dev/cdn/illuminated-bollard-9af752.mjs) |
 | [Illuminated Exit Sign](https://polyfork.dev/asset/illuminated-exit-sign-23becd) | [Office](../kits/office-794453.md) | 327 | [GLB](https://polyfork.dev/cdn/illuminated-exit-sign-23becd.glb) · [module](https://polyfork.dev/cdn/illuminated-exit-sign-23becd.mjs) |
@@ -505,5 +506,4 @@ Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Kosatsu Notice Board](https://polyfork.dev/asset/kosatsu-notice-board-c9d276) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 646 | [GLB](https://polyfork.dev/cdn/kosatsu-notice-board-c9d276.glb) · [module](https://polyfork.dev/cdn/kosatsu-notice-board-c9d276.mjs) |
 | [Kyudo Longbow](https://polyfork.dev/asset/kyudo-longbow-a7f88f) |  | 704 | [GLB](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.glb) · [module](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.mjs) |
 | [Lab Bench](https://polyfork.dev/asset/lab-bench-740e7b) |  | 594 | [GLB](https://polyfork.dev/cdn/lab-bench-740e7b.glb) · [module](https://polyfork.dev/cdn/lab-bench-740e7b.mjs) |
-| [Lab Coat Rack](https://polyfork.dev/asset/lab-coat-rack-a089e3) | [Research Lab](../kits/research-lab-9b9b5d.md) | 575 | [GLB](https://polyfork.dev/cdn/lab-coat-rack-a089e3.glb) · [module](https://polyfork.dev/cdn/lab-coat-rack-a089e3.mjs) |
 Page [1](props.md) **2** [3](props-3.md) [4](props-4.md) [5](props-5.md)
