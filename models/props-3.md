@@ -1,11 +1,16 @@
 # Props
 
-2,251 free low-poly models. [All types](../README.md#browse-by-type)
+2,258 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
+| [Knife](https://polyfork.dev/asset/knife-3d7947) |  | 922 | [GLB](https://polyfork.dev/cdn/knife-3d7947.glb) · [module](https://polyfork.dev/cdn/knife-3d7947.mjs) |
+| [Komodaru Sake Barrel](https://polyfork.dev/asset/komodaru-sake-barrel-c5199a) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 706 | [GLB](https://polyfork.dev/cdn/komodaru-sake-barrel-c5199a.glb) · [module](https://polyfork.dev/cdn/komodaru-sake-barrel-c5199a.mjs) |
+| [Kosatsu Notice Board](https://polyfork.dev/asset/kosatsu-notice-board-c9d276) | [Medieval Japan](../kits/medieval-japan-cb01ad.md) | 646 | [GLB](https://polyfork.dev/cdn/kosatsu-notice-board-c9d276.glb) · [module](https://polyfork.dev/cdn/kosatsu-notice-board-c9d276.mjs) |
+| [Kyudo Longbow](https://polyfork.dev/asset/kyudo-longbow-a7f88f) |  | 704 | [GLB](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.glb) · [module](https://polyfork.dev/cdn/kyudo-longbow-a7f88f.mjs) |
+| [Lab Bench](https://polyfork.dev/asset/lab-bench-740e7b) |  | 594 | [GLB](https://polyfork.dev/cdn/lab-bench-740e7b.glb) · [module](https://polyfork.dev/cdn/lab-bench-740e7b.mjs) |
 | [Lab Coat Rack](https://polyfork.dev/asset/lab-coat-rack-a089e3) | [Research Lab](../kits/research-lab-9b9b5d.md) | 575 | [GLB](https://polyfork.dev/cdn/lab-coat-rack-a089e3.glb) · [module](https://polyfork.dev/cdn/lab-coat-rack-a089e3.mjs) |
 | [Lab Notebook](https://polyfork.dev/asset/lab-notebook-e60f7a) | [Research Lab](../kits/research-lab-9b9b5d.md) | 302 | [GLB](https://polyfork.dev/cdn/lab-notebook-e60f7a.glb) · [module](https://polyfork.dev/cdn/lab-notebook-e60f7a.mjs) |
 | [Lab Stool](https://polyfork.dev/asset/lab-stool-022713) | [Research Lab](../kits/research-lab-9b9b5d.md) | 642 | [GLB](https://polyfork.dev/cdn/lab-stool-022713.glb) · [module](https://polyfork.dev/cdn/lab-stool-022713.mjs) |
@@ -268,7 +273,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Open Brain Coral](https://polyfork.dev/asset/open-brain-coral-50344c) | [Office Reefscape kit](../kits/office-reefscape-kit-1afd7c.md) | 748 | [GLB](https://polyfork.dev/cdn/open-brain-coral-50344c.glb) · [module](https://polyfork.dev/cdn/open-brain-coral-50344c.mjs) |
 | [Open Campfire](https://polyfork.dev/asset/open-campfire-5b463f) | [Chronos Hearth kit](../kits/chronos-hearth-kit-4827fd.md) | 784 | [GLB](https://polyfork.dev/cdn/open-campfire-5b463f.glb) · [module](https://polyfork.dev/cdn/open-campfire-5b463f.mjs) |
 | [Open Kitchen Shelf](https://polyfork.dev/asset/open-kitchen-shelf-f751de) | [Open Plan](../kits/open-plan-b2ebd3.md) | 644 | [GLB](https://polyfork.dev/cdn/open-kitchen-shelf-f751de.glb) · [module](https://polyfork.dev/cdn/open-kitchen-shelf-f751de.mjs) |
-| [Open-Front Picking Bin](https://polyfork.dev/asset/open-front-picking-bin-3d82ed) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 260 | [GLB](https://polyfork.dev/cdn/open-front-picking-bin-3d82ed.glb) · [module](https://polyfork.dev/cdn/open-front-picking-bin-3d82ed.mjs) |
+| [Open-Front Picking Bin](https://polyfork.dev/asset/open-front-picking-bin-3d82ed) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 356 | [GLB](https://polyfork.dev/cdn/open-front-picking-bin-3d82ed.glb) · [module](https://polyfork.dev/cdn/open-front-picking-bin-3d82ed.mjs) |
 | [Opera Proscenium Arch](https://polyfork.dev/asset/opera-proscenium-arch-19e969) | [Symphony Stagecraft kit](../kits/symphony-stagecraft-kit-bf2de0.md) | 826 | [GLB](https://polyfork.dev/cdn/opera-proscenium-arch-19e969.glb) · [module](https://polyfork.dev/cdn/opera-proscenium-arch-19e969.mjs) |
 | [Operating Table](https://polyfork.dev/asset/operating-table-af1a83) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 530 | [GLB](https://polyfork.dev/cdn/operating-table-af1a83.glb) · [module](https://polyfork.dev/cdn/operating-table-af1a83.mjs) |
 | [Optics Table](https://polyfork.dev/asset/optics-table-66db15) | [Research Lab](../kits/research-lab-9b9b5d.md) | 574 | [GLB](https://polyfork.dev/cdn/optics-table-66db15.glb) · [module](https://polyfork.dev/cdn/optics-table-66db15.mjs) |
@@ -480,7 +485,7 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Queue Belt Post](https://polyfork.dev/asset/queue-belt-post-912b7e) | [Modern Restaurant Cafe kit](../kits/modern-restaurant-cafe-01ea4c.md) | 392 | [GLB](https://polyfork.dev/cdn/queue-belt-post-912b7e.glb) · [module](https://polyfork.dev/cdn/queue-belt-post-912b7e.mjs) |
 | [Quiver](https://polyfork.dev/asset/quiver-722a40) |  | 658 | [GLB](https://polyfork.dev/cdn/quiver-722a40.glb) · [module](https://polyfork.dev/cdn/quiver-722a40.mjs) |
 | [Race Sack](https://polyfork.dev/asset/race-sack-04eb6d) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 576 | [GLB](https://polyfork.dev/cdn/race-sack-04eb6d.glb) · [module](https://polyfork.dev/cdn/race-sack-04eb6d.mjs) |
-| [Rack End Guard](https://polyfork.dev/asset/rack-end-guard-98aff9) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 430 | [GLB](https://polyfork.dev/cdn/rack-end-guard-98aff9.glb) · [module](https://polyfork.dev/cdn/rack-end-guard-98aff9.mjs) |
+| [Rack End Guard](https://polyfork.dev/asset/rack-end-guard-98aff9) | [Industrial Freight Yard](../kits/warehouse-and-logistics-activity-f7e79d.md) | 586 | [GLB](https://polyfork.dev/cdn/rack-end-guard-98aff9.glb) · [module](https://polyfork.dev/cdn/rack-end-guard-98aff9.mjs) |
 | [Radar Aerial Mast](https://polyfork.dev/asset/radar-aerial-mast-f88914) |  | 676 | [GLB](https://polyfork.dev/cdn/radar-aerial-mast-f88914.glb) · [module](https://polyfork.dev/cdn/radar-aerial-mast-f88914.mjs) |
 | [Radial Pie Menu](https://polyfork.dev/asset/radial-pie-menu-d4abda) | [3D UI kit](../kits/3d-ui-kit-5635f7.md) | 829 | [GLB](https://polyfork.dev/cdn/radial-pie-menu-d4abda.glb) · [module](https://polyfork.dev/cdn/radial-pie-menu-d4abda.mjs) |
 | [Radiator Panel](https://polyfork.dev/asset/radiator-panel-ea7d86) | [Space Base Kit](../kits/space-base-kit-cf65de.md) | 576 | [GLB](https://polyfork.dev/cdn/radiator-panel-ea7d86.glb) · [module](https://polyfork.dev/cdn/radiator-panel-ea7d86.mjs) |
@@ -501,9 +506,4 @@ Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)
 | [Reception Desk](https://polyfork.dev/asset/reception-desk-3d6913) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 458 | [GLB](https://polyfork.dev/cdn/reception-desk-3d6913.glb) · [module](https://polyfork.dev/cdn/reception-desk-3d6913.mjs) |
 | [Recessed Floor Box](https://polyfork.dev/asset/recessed-floor-box-018add) | [Office](../kits/office-794453.md) | 568 | [GLB](https://polyfork.dev/cdn/recessed-floor-box-018add.glb) · [module](https://polyfork.dev/cdn/recessed-floor-box-018add.mjs) |
 | [Recurve Hunting Bow](https://polyfork.dev/asset/recurve-hunting-bow-2903c8) | [Mythic Character Vault](../kits/the-ultimate-rpg-character-a066e1.md) | 562 | [GLB](https://polyfork.dev/cdn/recurve-hunting-bow-2903c8.glb) · [module](https://polyfork.dev/cdn/recurve-hunting-bow-2903c8.mjs) |
-| [Recycling Capsule Bin](https://polyfork.dev/asset/recycling-capsule-bin-348f5b) | [Chrome Arcology Transit kit](../kits/chrome-arcology-transit-kit-87a0e1.md) | 602 | [GLB](https://polyfork.dev/cdn/recycling-capsule-bin-348f5b.glb) · [module](https://polyfork.dev/cdn/recycling-capsule-bin-348f5b.mjs) |
-| [Red Brick Bank](https://polyfork.dev/asset/red-brick-bank-bb28b3) | [Skatepark kit](../kits/skatepark-0922a9.md) | 502 | [GLB](https://polyfork.dev/cdn/red-brick-bank-bb28b3.glb) · [module](https://polyfork.dev/cdn/red-brick-bank-bb28b3.mjs) |
-| [Red Post Box](https://polyfork.dev/asset/red-post-box-f12045) | [Little Tokyo kit](../kits/japanese-suburban-city-street-baa482.md) | 562 | [GLB](https://polyfork.dev/cdn/red-post-box-f12045.glb) · [module](https://polyfork.dev/cdn/red-post-box-f12045.mjs) |
-| [Red Scoria Rock](https://polyfork.dev/asset/red-scoria-rock-35bb9c) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 688 | [GLB](https://polyfork.dev/cdn/red-scoria-rock-35bb9c.glb) · [module](https://polyfork.dev/cdn/red-scoria-rock-35bb9c.mjs) |
-| [Reed Bed](https://polyfork.dev/asset/reed-bed-bbbefb) | [Campground & Lake](../kits/campground-lake-ad32b0.md) | 708 | [GLB](https://polyfork.dev/cdn/reed-bed-bbbefb.glb) · [module](https://polyfork.dev/cdn/reed-bed-bbbefb.mjs) |
 Page [1](props.md) [2](props-2.md) **3** [4](props-4.md) [5](props-5.md)

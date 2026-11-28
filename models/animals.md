@@ -1,6 +1,6 @@
 # Animals
 
-297 free low-poly models. [All types](../README.md#browse-by-type)
+299 free low-poly models. [All types](../README.md#browse-by-type)
 
 | Model | Kit | Triangles | Files |
 |---|---|--:|---|
@@ -75,6 +75,7 @@
 | [Crystal-Antlered Spectral Stag](https://polyfork.dev/asset/spectral-stag-d19dc1) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 2,726 | [GLB](https://polyfork.dev/cdn/spectral-stag-d19dc1.glb) · [module](https://polyfork.dev/cdn/spectral-stag-d19dc1.mjs) |
 | [Cyclops](https://polyfork.dev/asset/cyclops-base) |  | 4,986 | [GLB](https://polyfork.dev/cdn/cyclops-base.glb) · [module](https://polyfork.dev/cdn/cyclops-base.mjs) |
 | [Deer](https://polyfork.dev/asset/deer-base) |  | 2,230 | [GLB](https://polyfork.dev/cdn/deer-base.glb) · [module](https://polyfork.dev/cdn/deer-base.mjs) |
+| [Dock loader](https://polyfork.dev/asset/dock-loader-base) |  | 4,994 | [GLB](https://polyfork.dev/cdn/dock-loader-base.glb) · [module](https://polyfork.dev/cdn/dock-loader-base.mjs) |
 | [Dog](https://polyfork.dev/asset/dog-base) |  | 2,204 | [GLB](https://polyfork.dev/cdn/dog-base.glb) · [module](https://polyfork.dev/cdn/dog-base.mjs) |
 | [Dolphin](https://polyfork.dev/asset/dolphin-base) |  | 2,904 | [GLB](https://polyfork.dev/cdn/dolphin-base.glb) · [module](https://polyfork.dev/cdn/dolphin-base.mjs) |
 | [Donkey](https://polyfork.dev/asset/donkey-base) |  | 3,208 | [GLB](https://polyfork.dev/cdn/donkey-base.glb) · [module](https://polyfork.dev/cdn/donkey-base.mjs) |
@@ -290,6 +291,7 @@
 | [Varka, the Iron-Fused Smith](https://polyfork.dev/asset/varka-5a6264) | [Grimlight Denizens kit](../kits/grimlight-denizens-kit-a6dc02.md) | 4,988 | [GLB](https://polyfork.dev/cdn/varka-5a6264.glb) · [module](https://polyfork.dev/cdn/varka-5a6264.mjs) |
 | [Velociraptor](https://polyfork.dev/asset/velociraptor-base) |  | 3,938 | [GLB](https://polyfork.dev/cdn/velociraptor-base.glb) · [module](https://polyfork.dev/cdn/velociraptor-base.mjs) |
 | [Village Chicken](https://polyfork.dev/asset/village-chicken-9ba715) | [Medieval Village Kit](../kits/medieval-village-kit-ca0b43.md) | 1,190 | [GLB](https://polyfork.dev/cdn/village-chicken-9ba715.glb) · [module](https://polyfork.dev/cdn/village-chicken-9ba715.mjs) |
+| [Visitor with a camera](https://polyfork.dev/asset/visitor-with-a-camera-base) |  | 4,946 | [GLB](https://polyfork.dev/cdn/visitor-with-a-camera-base.glb) · [module](https://polyfork.dev/cdn/visitor-with-a-camera-base.mjs) |
 | [Whisperer](https://polyfork.dev/asset/whisperer-base) |  | 4,806 | [GLB](https://polyfork.dev/cdn/whisperer-base.glb) · [module](https://polyfork.dev/cdn/whisperer-base.mjs) |
 | [Wide-Jawed Ghoul](https://polyfork.dev/asset/flesh-eater-base) |  | 3,194 | [GLB](https://polyfork.dev/cdn/flesh-eater-base.glb) · [module](https://polyfork.dev/cdn/flesh-eater-base.mjs) |
 | [Wild Horse](https://polyfork.dev/asset/wild-horse-047e93) | [Easter Island (Rapa Nui)](../kits/easter-island-rapa-nui-368e86.md) | 2,997 | [GLB](https://polyfork.dev/cdn/wild-horse-047e93.glb) · [module](https://polyfork.dev/cdn/wild-horse-047e93.mjs) |

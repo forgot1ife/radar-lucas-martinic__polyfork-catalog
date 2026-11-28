@@ -1,6 +1,6 @@
 # Props
 
-2,251 free low-poly models. [All types](../README.md#browse-by-type)
+2,258 free low-poly models. [All types](../README.md#browse-by-type)
 
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 
@@ -498,6 +498,7 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Corridor Handrail Run](https://polyfork.dev/asset/corridor-handrail-run-cc6555) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 344 | [GLB](https://polyfork.dev/cdn/corridor-handrail-run-cc6555.glb) · [module](https://polyfork.dev/cdn/corridor-handrail-run-cc6555.mjs) |
 | [Corroded Drum](https://polyfork.dev/asset/corroded-drum-fc75cf) | [Coral Reef](../kits/coral-reef-a7128a.md) | 784 | [GLB](https://polyfork.dev/cdn/corroded-drum-fc75cf.glb) · [module](https://polyfork.dev/cdn/corroded-drum-fc75cf.mjs) |
 | [Corrugated awning](https://polyfork.dev/asset/corrugated-awning-e758eb) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 688 | [GLB](https://polyfork.dev/cdn/corrugated-awning-e758eb.glb) · [module](https://polyfork.dev/cdn/corrugated-awning-e758eb.mjs) |
+| [Cotton Candy Cart](https://polyfork.dev/asset/cotton-candy-cart-b6ab7d) | [Storybook Sandbox](../kits/this-is-a-whimsical-dd1bde.md) | 1,279 | [GLB](https://polyfork.dev/cdn/cotton-candy-cart-b6ab7d.glb) · [module](https://polyfork.dev/cdn/cotton-candy-cart-b6ab7d.mjs) |
 | [Counter Stool](https://polyfork.dev/asset/counter-stool-73553a) | [Roadside Americana](../kits/roadside-americana-50d40c.md) | 802 | [GLB](https://polyfork.dev/cdn/counter-stool-73553a.glb) · [module](https://polyfork.dev/cdn/counter-stool-73553a.mjs) |
 | [Country Lane Tile](https://polyfork.dev/asset/country-lane-tile-65e8ee) | [Countryside Railway](../kits/countryside-railway-9b4c57.md) | 726 | [GLB](https://polyfork.dev/cdn/country-lane-tile-65e8ee.glb) · [module](https://polyfork.dev/cdn/country-lane-tile-65e8ee.mjs) |
 | [Country Well](https://polyfork.dev/asset/country-well-8feec8) | [Chile: Fiestas Patrias](../kits/chile-fiestas-patrias-87e847.md) | 864 | [GLB](https://polyfork.dev/cdn/country-well-8feec8.glb) · [module](https://polyfork.dev/cdn/country-well-8feec8.mjs) |
@@ -505,5 +506,4 @@ Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
 | [Cowled chimney stack](https://polyfork.dev/asset/cowled-chimney-stack-de5055) | [Sky Town](../kits/salvage-commons-d0be9f.md) | 774 | [GLB](https://polyfork.dev/cdn/cowled-chimney-stack-de5055.glb) · [module](https://polyfork.dev/cdn/cowled-chimney-stack-de5055.mjs) |
 | [Craps Table](https://polyfork.dev/asset/craps-table-5439ee) | [Hotel Casino kit](../kits/casino-3dd029.md) | 848 | [GLB](https://polyfork.dev/cdn/craps-table-5439ee.glb) · [module](https://polyfork.dev/cdn/craps-table-5439ee.mjs) |
 | [Crash Barrier Run](https://polyfork.dev/asset/crash-barrier-run-b47d1d) | [Construction Site](../kits/construction-site-9e40b0.md) | 749 | [GLB](https://polyfork.dev/cdn/crash-barrier-run-b47d1d.glb) · [module](https://polyfork.dev/cdn/crash-barrier-run-b47d1d.mjs) |
-| [Crash Cart](https://polyfork.dev/asset/crash-cart-201b46) | [Hospital kit](../kits/hospital-kit-2ebfcb.md) | 718 | [GLB](https://polyfork.dev/cdn/crash-cart-201b46.glb) · [module](https://polyfork.dev/cdn/crash-cart-201b46.mjs) |
 Page **1** [2](props-2.md) [3](props-3.md) [4](props-4.md) [5](props-5.md)
